@@ -1,8 +1,8 @@
 import "./Components/App.css";
-import Navbar from "./Components/Navbar.jsx";
+import Navbar from "./Components/navbar.jsx";
 import Aboutme from "./Components/aboutme.jsx";
-import HeroBottom from "./Components/HeroBottom.jsx";
-import Projects from "./Components/Projects.jsx";
+import HeroBottom from "./Components/heroBottom.jsx";
+import Projects from "./Components/projects.jsx";
 function App() {
   return (
     <>
